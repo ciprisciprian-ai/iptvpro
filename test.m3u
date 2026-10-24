@@ -1,28 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1,Atomic Academy
-https://atomic.streamnet.ro/academia.m3u8
+#EXTINF:-1,Pro TV ALT
+https://ultra3.ronanx1.cfd/porky/high/usergenx7240lrnd.m3u8
 
-#EXTINF:-1,Atomic TV
-https://atomic.streamnet.ro/atomictv.m3u8
-
-#EXTINF:-1,Bucovina TV
-https://www.bucovinatv.ro/proxy/video/playlist.m3u8
-
-#EXTINF:-1,Moldova 1
-https://v.trm.md/static/streaming-playlists/hls/6b3b523a-6a02-444c-8129-8354bbeffbc9/master.m3u8
-
-#EXTINF:-1,Moldova 2
-https://v.trm.md/static/streaming-playlists/hls/937e4e0e-7174-4fb2-a299-480e68b49ecb/master.m3u8
-
-#EXTINF:-1,Rapsodia TV
-http://92.86.248.141:8080/ram/playlist.m3u8
-
-#EXTINF:-1,TVR Moldova
-https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/playlist.m3u8
-
-#EXTINF:-1,Sens TV
-https://live.senstv.ro/live/senstv_1080p/playlist.m3u8
-
-#EXTINF:-1,A7TV
-https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8
+#EXTINF:-1,Antena 1 ALT
+https://cdn.tv24.gdn/lb/Antena1/index.m3u8
