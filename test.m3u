@@ -1,30 +1,28 @@
 #EXTM3U
 
-#EXTINF:-1,Digi24
-https://edge-ar.rcs-rds.ro/digi24ar/hq.m3u8
+#EXTINF:-1,Atomic Academy
+https://atomic.streamnet.ro/academia.m3u8
 
-#EXTINF:-1,TVR1
-https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8
+#EXTINF:-1,Atomic TV
+https://atomic.streamnet.ro/atomictv.m3u8
 
-#EXTINF:-1,TVR2
-https://tvr-2.lg.mncdn.com/tvr2/smil:tvr2.smil/chunklist_b5160000.m3u8
+#EXTINF:-1,Bucovina TV
+https://www.bucovinatv.ro/proxy/video/playlist.m3u8
 
-#EXTINF:-1,TVR3
-https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/playlist.m3u8
+#EXTINF:-1,Moldova 1
+https://v.trm.md/static/streaming-playlists/hls/6b3b523a-6a02-444c-8129-8354bbeffbc9/master.m3u8
 
-#EXTINF:-1,Kiss TV
-https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
+#EXTINF:-1,Moldova 2
+https://v.trm.md/static/streaming-playlists/hls/937e4e0e-7174-4fb2-a299-480e68b49ecb/master.m3u8
 
-#EXTINF:-1,Rock TV
-https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
+#EXTINF:-1,Rapsodia TV
+http://92.86.248.141:8080/ram/playlist.m3u8
 
-#EXTINF:-1,Aleph News
-https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
+#EXTINF:-1,TVR Moldova
+https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/playlist.m3u8
 
-#EXTINF:-1,Agro TV
-https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
+#EXTINF:-1,Sens TV
+https://live.senstv.ro/live/senstv_1080p/playlist.m3u8
 
-#EXTINF:-1,Nasul TV
-https://live.nasul.tv/live/stream.m3u8
-
-
+#EXTINF:-1,A7TV
+https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8
