@@ -1,2 +1,10 @@
-#EXTINF:-1 tvg-name="Pro TV" group-title="Generaliste",Pro TV
-https://epsilon1.visionxman1.cfd/porky/high/usergenx7240lrnd.m3u8|referer=https://ultra3.ronanx1.cfd/|user-agent=Mozilla/5.0
+#EXTM3U
+
+#EXTINF:-1 group-title="Generaliste",Pro TV
+https://epsilon1.visionxman1.cfd/porky/high/usergenx7240lrnd.m3u8
+
+#EXTINF:-1 group-title="Generaliste",Antena 1
+https://ceres1.vizionman.cfd/ah1/usergenx304Jtlrnd.m3u8
+
+#EXTINF:-1 group-title="Generaliste",Kanal D
+https://stream1.kanald.ro/iphone/knd-live.m3u8
