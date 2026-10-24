@@ -1,7 +1,2 @@
-#EXTM3U
-
-#EXTINF:-1,Pro TV ALT
-https://ultra3.ronanx1.cfd/porky/high/usergenx7240lrnd.m3u8
-
-#EXTINF:-1,Antena 1 ALT
-https://cdn.tv24.gdn/lb/Antena1/index.m3u8
+#EXTINF:-1,Pro TV
+https://epsilon1.visionxman1.cfd/porky/high/usergenx7240lrnd.m3u8|Referer=https://ultra3.ronanx1.cfd/&User-Agent=Mozilla/5.0
