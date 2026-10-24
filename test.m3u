@@ -1,22 +1,28 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Generaliste",Pro TV
-https://epsilon1.visionxman1.cfd/porky/high/usergenx7240lrnd.m3u8
+#EXTINF:-1,Digi24
+https://edge-ar.rcs-rds.ro/digi24ar/hq.m3u8
 
-#EXTINF:-1 group-title="Generaliste",Antena 1
-https://ceres1.vizionman.cfd/ah1/usergenx304Jtlrnd.m3u8
-
-#EXTINF:-1 group-title="Generaliste",Kanal D
-https://stream1.kanald.ro/iphone/knd-live.m3u8
-
-#EXTINF:-1 group-title="Generaliste",Pro TV
-https://epsilon1.visionxman1.cfd/porky/high/usergenx7240lrnd.m3u8
-
-#EXTINF:-1 group-title="Generaliste",Antena 1
-https://ceres1.vizionman.cfd/ah1/usergenx304Jtlrnd.m3u8
-
-#EXTINF:-1 group-title="Generaliste",Kanal D
-https://stream1.kanald.ro/iphone/knd-live.m3u8
-
-#EXTINF:-1 group-title="Generaliste",TVR 1
+#EXTINF:-1,TVR1
 https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8
+
+#EXTINF:-1,TVR2
+https://tvr-2.lg.mncdn.com/tvr2/smil:tvr2.smil/chunklist_b5160000.m3u8
+
+#EXTINF:-1,TVR3
+https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/playlist.m3u8
+
+#EXTINF:-1,Kiss TV
+https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
+
+#EXTINF:-1,Rock TV
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
+
+#EXTINF:-1,Aleph News
+https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
+
+#EXTINF:-1,Agro TV
+https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
+
+#EXTINF:-1,Nasul TV
+https://live.nasul.tv/live/stream.m3u8
